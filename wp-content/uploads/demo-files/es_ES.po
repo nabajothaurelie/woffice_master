@@ -1,0 +1,3809 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mobius\n"
+"POT-Creation-Date: 2015-02-05 00:12+0100\n"
+"PO-Revision-Date: 2015-07-30 14:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: Themeone <themeone.master@gmail.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:5
+msgid "Not Found."
+msgstr "No encontrado"
+
+#: ../404.php:6
+msgid "The page you requested does not exist."
+msgstr "La página solicitada no existe."
+
+#: ../404.php:8
+msgid "Back to Home Page"
+msgstr "Volver a la página de inicio"
+
+#: ../MOBIUS-template-blog-standard sidebar.php:97 ../MOBIUS-template-blog-standard.php:93 ../index.php:87
+msgid "Read More"
+msgstr "Leer más"
+
+#: ../archive.php:14
+msgid " archives "
+msgstr " archivos "
+
+#: ../archive.php:16
+msgid " archive "
+msgstr " archivo "
+
+#: ../archive.php:20
+msgid "found in\""
+msgstr "encontrado/s en \""
+
+#: ../archive.php:23 ../archive.php:26 ../archive.php:29 ../archive.php:32
+msgid "found for \""
+msgstr "encontrado/s por \""
+
+#: ../archive.php:35
+msgid "posted by \""
+msgstr "publicado/s por  \""
+
+#: ../archive.php:38
+msgid "found in Blog"
+msgstr "Archivo no encontrado"
+
+#: ../archive.php:73 ../search.php:49
+msgid "blog"
+msgstr "blog"
+
+# No existen entradas, disculpa las molestias.
+#: ../archive.php:115 ../search.php:91
+msgid "Sorry, there are no posts to display."
+msgstr "No hay ningún artículo que mostrar."
+
+# Intenta buscar de nuevo...
+#: ../archive.php:115 ../search.php:91
+msgid "Please try to search again..."
+msgstr "Intenta buscar de nuevo..."
+
+# Sin comentarios
+#: ../comments.php:21 ../functions.php:1191
+msgid "No Comments"
+msgstr "Sin comentarios"
+
+# Un comentario
+#: ../comments.php:21
+msgid "One Comment"
+msgstr "Un comentario"
+
+# % Comentarios
+#: ../comments.php:21
+msgid "% Comments"
+msgstr "% Comentarios"
+
+# Deja un comentario
+#: ../comments.php:50
+msgid "Leave a Reply"
+msgstr "Deja un comentario"
+
+#: ../comments.php:51
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deja un comentario para %s"
+
+#: ../comments.php:52
+msgid "Cancel Reply"
+msgstr "Cancelar"
+
+#: ../comments.php:53
+msgid "Submit Comment"
+msgstr "Enviar"
+
+#: ../comments.php:59
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:65
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Your email address will not be published."
+msgstr "Tu  email no será publicado."
+
+#: ../comments.php:81
+msgid "Name"
+msgstr "Nombre"
+
+#: ../comments.php:87
+msgid "Email"
+msgstr "Email"
+
+# Website
+#: ../comments.php:94
+msgid "Website"
+msgstr "Website"
+
+#: ../footer.php:109
+msgid "Widget Area 1"
+msgstr ""
+
+#: ../footer.php:110 ../footer.php:119 ../footer.php:129 ../footer.php:140
+msgid "Click here to assign a widget to this area."
+msgstr ""
+
+#: ../footer.php:118
+msgid "Widget Area 2"
+msgstr ""
+
+#: ../footer.php:128
+msgid "Widget Area 3"
+msgstr ""
+
+#: ../footer.php:139
+msgid "Widget Area 4"
+msgstr ""
+
+#: ../functions.php:30
+msgid "Important Message for Mobius Theme!"
+msgstr ""
+
+#: ../functions.php:31
+msgid "Your php version is"
+msgstr ""
+
+#: ../functions.php:32
+msgid "You need at least"
+msgstr ""
+
+#: ../functions.php:32
+msgid ""
+"in order to have all Mobius features activated. Please contact your web host company to upgrade your php."
+msgstr ""
+
+#: ../functions.php:33
+msgid "With your current php version you not be able to set image in the megamenu"
+msgstr ""
+
+#: ../functions.php:34
+#, php-format
+msgid "<p><a href=\"%1$s\"><strong>Dismiss this notice</strong></a></p>"
+msgstr ""
+
+#: ../functions.php:263
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:559
+msgid "Back"
+msgstr "Volver"
+
+#: ../functions.php:652
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:652
+msgid "(Edit)"
+msgstr "Editar"
+
+#: ../functions.php:657
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../functions.php:660
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de aprobación."
+
+#: ../functions.php:710 ../functions.php:1838
+msgid "Home"
+msgstr "Inicio"
+
+#: ../functions.php:737
+msgid "Archive by category \""
+msgstr "Categoría  \""
+
+#: ../functions.php:739
+msgid "Search results for \""
+msgstr "Resultados de búsqueda para  \""
+
+#: ../functions.php:803
+msgid "Posts tagged \""
+msgstr "Artículos etiquetados como  \""
+
+#: ../functions.php:807
+msgid "Articles posted by "
+msgstr "Artículos escritos por "
+
+#: ../functions.php:809
+msgid "Error 404"
+msgstr "Error 404"
+
+#: ../functions.php:815
+msgid " Page"
+msgstr " Página "
+
+#: ../functions.php:1157
+msgid "Prev item"
+msgstr "Anterior"
+
+#: ../functions.php:1158
+msgid "Next item"
+msgstr "Siguiente"
+
+#: ../functions.php:1162
+msgid "Prev reading"
+msgstr "Anterior"
+
+#: ../functions.php:1163
+msgid "Next reading"
+msgstr "Siguiente"
+
+#: ../functions.php:1193
+msgid " Comments"
+msgstr " Comentarios"
+
+#: ../functions.php:1195
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: ../functions.php:1217 ../includes/mobius-grid/mobius-grid.php:545
+msgid "By "
+msgstr "Por "
+
+#: ../functions.php:1232
+msgid " ago"
+msgstr " de antigüedad"
+
+#: ../functions.php:1335
+msgid "this post"
+msgstr "este artículo"
+
+#: ../functions.php:1338
+msgid "this product"
+msgstr "este producto"
+
+#: ../functions.php:1341
+msgid "this work"
+msgstr "este artículo"
+
+#: ../functions.php:1345
+msgid "Share"
+msgstr "Compartir"
+
+#: ../functions.php:1346
+msgid "was shared"
+msgstr "fue compartido"
+
+#: ../functions.php:1346
+msgid "times"
+msgstr "veces"
+
+#: ../functions.php:1615
+msgid "Items Per Page"
+msgstr ""
+
+#: ../functions.php:1627
+msgid "Show"
+msgstr "Mostrar"
+
+#: ../functions.php:1826
+msgid "Shop"
+msgstr "Tienda"
+
+#: ../functions.php:1875
+msgid "customer reviews"
+msgstr ""
+
+#: ../functions.php:1877
+msgid "customer review"
+msgstr ""
+
+#: ../functions.php:1883
+msgid "no reviews yet"
+msgstr ""
+
+#: ../header.php:86
+msgid "My Cart"
+msgstr "Carrito"
+
+#: ../header.php:95
+msgid "My Whilist"
+msgstr "Wishlist"
+
+#: ../header.php:181
+msgid "No menu assigned!"
+msgstr ""
+
+#: ../header.php:226
+msgid "was successfully added to your wishlist."
+msgstr "Se ha añadido con éxito a tu wishlist."
+
+#: ../header.php:240
+msgid "was successfully added to your cart."
+msgstr "Se ha añadido con éxito a tu carrito."
+
+#: ../header.php:251
+msgid "  It can't be played in your browser. Download "
+msgstr ""
+
+#: ../includes/ajax-search/search_autocomplete.php:81
+msgid "By"
+msgstr "Por "
+
+#: ../includes/ajax-search/search_autocomplete.php:95
+msgid "Results found"
+msgstr "Resultados"
+
+#: ../includes/ajax-search/search_autocomplete.php:97
+msgid "Result found"
+msgstr "Resultado"
+
+#: ../includes/ajax-search/search_autocomplete.php:105
+msgid "From Blog"
+msgstr "Artículos"
+
+#: ../includes/ajax-search/search_autocomplete.php:111
+msgid "From Page"
+msgstr "Páginas"
+
+#: ../includes/ajax-search/search_autocomplete.php:117
+msgid "From Portfolio"
+msgstr "Portfolio"
+
+#: ../includes/ajax-search/search_autocomplete.php:123
+msgid "From Shop"
+msgstr "Productos"
+
+#: ../includes/custom-widgets/most-liked-post.php:16
+msgid "Most liked post"
+msgstr "Artículo más popular"
+
+#: ../includes/custom-widgets/most-liked-post.php:36 ../includes/custom-widgets/recent-portfolio.php:36
+#: ../includes/custom-widgets/widget-cart.php:30
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:148
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:203
+msgid "Title"
+msgstr "Título"
+
+#: ../includes/custom-widgets/most-liked-post.php:40 ../includes/custom-widgets/recent-portfolio.php:40
+msgid "Type of post to display"
+msgstr ""
+
+#: ../includes/custom-widgets/most-liked-post.php:48 ../includes/custom-widgets/recent-portfolio.php:48
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../includes/custom-widgets/recent-portfolio.php:18
+msgid "Recent Projects"
+msgstr ""
+
+#: ../includes/custom-widgets/widget-cart.php:23
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../includes/custom-widgets/widget-cart.php:25
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../includes/custom-widgets/widget-cart.php:29 ../includes/custom-widgets/widget-cart.php:56
+#: ../includes/options/options.php:2570
+msgid "Cart"
+msgstr "Carrito"
+
+#: ../includes/custom-widgets/widget-cart.php:35
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:144 ../includes/demo-installer/demo-importer.php:152
+#: ../includes/demo-installer/demo-importer.php:224 ../includes/demo-installer/demo-importer.php:228
+#: ../includes/demo-installer/demo-importer.php:237
+msgid "Sorry, there has been an error."
+msgstr "Lo sentimos, ha habido un error."
+
+#: ../includes/demo-installer/demo-importer.php:145
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:229
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that this was caused by a "
+"permissions problem."
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:245
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the importer. Please consider "
+"updating."
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:270
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:330
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:381
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:421
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:467 ../includes/demo-installer/demo-importer.php:622
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:495
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:517
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:588
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:753
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:760
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:822
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:835
+msgid "Invalid file type"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:879
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:885
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:892
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:897
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../includes/demo-installer/demo-importer.php:903
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../includes/demo-installer/demo-installer.php:60
+msgid "post type doesn't exist"
+msgstr ""
+
+#: ../includes/demo-installer/demo-installer.php:355
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../includes/demo-installer/demo-installer.php:371
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../includes/demo-installer/demo-installer.php:384
+msgid "Widget already exists"
+msgstr ""
+
+#: ../includes/demo-installer/demo-installer.php:417
+msgid "Imported"
+msgstr ""
+
+#: ../includes/demo-installer/demo-installer.php:420
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../includes/demo-installer/demo-installer.php:425
+msgid "No Title"
+msgstr ""
+
+#: ../includes/demo-installer/parsers.php:43 ../includes/demo-installer/parsers.php:75
+#: ../includes/demo-installer/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../includes/demo-installer/parsers.php:44
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: ../includes/demo-installer/parsers.php:87 ../includes/demo-installer/parsers.php:92
+#: ../includes/demo-installer/parsers.php:283 ../includes/demo-installer/parsers.php:469
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../includes/metaboxes/meta-setup.php:106 ../includes/metaboxes/meta-setup.php:113
+#: ../includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:306
+#: ../includes/redux-framework/ReduxCore/inc/fields/media/field_media.php:155
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:129
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:191
+msgid "Upload"
+msgstr ""
+
+#: ../includes/metaboxes/meta-setup.php:107 ../includes/metaboxes/meta-setup.php:114
+#: ../includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:312
+#: ../includes/redux-framework/ReduxCore/inc/fields/media/field_media.php:161
+#: ../includes/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: ../includes/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ../includes/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:136
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:193
+msgid "Remove"
+msgstr "Borrar"
+
+#: ../includes/metaboxes/meta-setup.php:165
+msgid "Select a slider that you setup in Themeone Slider custom page options."
+msgstr ""
+
+#: ../includes/metaboxes/meta-setup.php:202
+msgid "Select a sidebar:"
+msgstr ""
+
+#: ../includes/metaboxes/meta-setup.php:211
+msgid "Choose the sidebar position:"
+msgstr ""
+
+#: ../includes/metaboxes/meta-setup.php:221
+msgid "Set the sidebar margin top if necessary (Do not add 'px'):"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:11 ../includes/metaboxes/post-meta.php:84
+msgid "Element Size Setting"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:18
+msgid "Element with description"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:19
+msgid ""
+"This element sizes allow to display the featured image, the title, and the excerpt of the curent post "
+"<br> *(if there is not featured image, the excert will fill all the element size)"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:47
+msgid "Element with full image centered"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:48
+msgid ""
+"This element sizes allow to display the featured image and the title of the current post displayed at "
+"the bottom of the picture"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:91
+msgid "Element full image"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:92
+msgid "This element sizes allow to display the featured image of the portfolio entry)"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:128
+msgid "Quote Settings"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:135
+msgid "Quote Content"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:136
+msgid "Please type the text for your quote here."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:142
+msgid "Quote Author"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:143
+msgid "Please enter the quote author."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:159 ../includes/metaboxes/post-meta.php:172
+msgid "Category Background Color"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:161 ../includes/metaboxes/post-meta.php:174
+msgid "Choose a color for the background category"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:206
+msgid "Link Settings"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:213
+msgid "Link From"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:214
+msgid "Please type the link from (website title, author name,...)"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:220
+msgid "Link URL"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:221
+msgid "Please type the url link"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:227
+msgid "Link Text"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:228
+msgid "Please enter the Link text."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:242
+msgid "Video Settings"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:249 ../includes/metaboxes/post-meta.php:1012
+msgid "M4V/MP4 File URL"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:250 ../includes/metaboxes/post-meta.php:1013
+msgid "Please enter an URL or upload your .m4v/.mp4 video file"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:256 ../includes/metaboxes/post-meta.php:1026
+msgid "OGV/OGG File URL"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:257 ../includes/metaboxes/post-meta.php:1027
+msgid "Please enter an URL or upload your .ogv/.ogg video file"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:263
+msgid "Embedded Video Code"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:264
+msgid "Embedded video allows you to play video from Youtube or Vimeo with an embed code."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:270
+msgid "Poster Image"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:271
+msgid ""
+"This image is displayed when the video has not been played yet. Please click on \"Upload\" button to "
+"upload your image"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:285
+msgid "Audio Settings"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:292
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:293
+msgid "Please enter an URL or upload your .mp3 audio file"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:299
+msgid "OGA/OGG File URL"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:300
+msgid "Please enter an URL or upload your .oga/.ogg audio file"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:306
+msgid "Artist name"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:307
+msgid "Please enter the artist name here."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:313
+msgid "Song name"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:314
+msgid "Please enter the song name here."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:320
+msgid "Album Image"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:321
+msgid ""
+"Please enter an URL or upload the album image. <br> This album image is displayed in the menu player "
+"when the song is played. Image must be square (80px*80px at minimum)"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:335 ../includes/metaboxes/post-meta.php:480
+#: ../includes/metaboxes/post-meta.php:618
+msgid "Page Header Settings"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:337 ../includes/metaboxes/post-meta.php:482
+msgid ""
+"The page header is displayed at the top of the page. It allows to display a custom title for the page "
+"(like \"portfolio\", \"blog\", \"contact\",...).<br>This header can also display a bread crumb menu on "
+"the right of the header page."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:342 ../includes/metaboxes/post-meta.php:487
+msgid "Page Header Title"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:343 ../includes/metaboxes/post-meta.php:488
+msgid "Please enter the page header title."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:349 ../includes/metaboxes/post-meta.php:494
+#: ../includes/metaboxes/post-meta.php:625
+msgid "Page Header SubTitle"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:350 ../includes/metaboxes/post-meta.php:495
+#: ../includes/metaboxes/post-meta.php:626
+msgid "Please enter the page header subtitle."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:356 ../includes/metaboxes/post-meta.php:501
+#: ../includes/metaboxes/post-meta.php:639
+msgid "Page Header Text Color"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:357 ../includes/metaboxes/post-meta.php:502
+#: ../includes/metaboxes/post-meta.php:640
+msgid ""
+"Select the color of the content inside the page header.<br>Dark add black text color and light white "
+"text color."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:373 ../includes/metaboxes/post-meta.php:518
+#: ../includes/metaboxes/post-meta.php:656
+msgid "Page Header Bacground Color"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:374 ../includes/metaboxes/post-meta.php:519
+#: ../includes/metaboxes/post-meta.php:657
+msgid "Please choose a background color. If an image is set, then the background color will not be applied"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:380 ../includes/metaboxes/post-meta.php:525
+msgid "Page Header Content Alignment"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:381 ../includes/metaboxes/post-meta.php:526
+msgid "Select the alignment of the page header content."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:401 ../includes/metaboxes/post-meta.php:546
+#: ../includes/metaboxes/post-meta.php:632
+msgid "Page Header Height"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:402 ../includes/metaboxes/post-meta.php:547
+#: ../includes/metaboxes/post-meta.php:633
+msgid ""
+"Please enter the header height. This height correspond to the minimum height of the header.<br>Please do "
+"not add \"px\" (e.g: 30)"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:408 ../includes/metaboxes/post-meta.php:553
+#: ../includes/metaboxes/post-meta.php:663
+msgid "Page Header Image"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:409 ../includes/metaboxes/post-meta.php:554
+msgid ""
+"Please enter an URL or upload the page header image.<br> the image sholud be between 1600px and about "
+"2000px.<br>The height must be at minimum 450px"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:415 ../includes/metaboxes/post-meta.php:560
+#: ../includes/metaboxes/post-meta.php:670
+msgid "Page Header Image Alignment"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:416 ../includes/metaboxes/post-meta.php:561
+#: ../includes/metaboxes/post-meta.php:671
+msgid "Select the vertical alignment of the page header image"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:436 ../includes/metaboxes/post-meta.php:581
+#: ../includes/metaboxes/post-meta.php:691
+msgid "Page Header Image Pattern"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:437 ../includes/metaboxes/post-meta.php:582
+#: ../includes/metaboxes/post-meta.php:692 ../includes/options/options.php:2225
+#: ../includes/options/options.php:2533
+msgid "If your uploaded image is a repeating pattern, please check this option."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:443 ../includes/metaboxes/post-meta.php:588
+#: ../includes/metaboxes/post-meta.php:698
+msgid "Page Header Image Parallax"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:444 ../includes/metaboxes/post-meta.php:589
+#: ../includes/metaboxes/post-meta.php:699 ../includes/options/options.php:2233
+#: ../includes/options/options.php:2541
+msgid "If you would like to add a parallax effect on the header image, please check this option."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:450
+msgid "Page Header BreadCrumb Menu"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:451
+msgid "If you want to display the current breakcrumb menu, please check this option."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:457 ../includes/metaboxes/post-meta.php:595
+#: ../includes/metaboxes/post-meta.php:705
+msgid "Transparent header"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:458 ../includes/metaboxes/post-meta.php:596
+#: ../includes/metaboxes/post-meta.php:706
+msgid "Enable or not a transparent header over the page header."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:464 ../includes/metaboxes/post-meta.php:602
+msgid "Moving Particles Header"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:465 ../includes/metaboxes/post-meta.php:603
+msgid "Enable parallax moving particles interaction under the page header"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:620
+msgid ""
+"The page header is displayed at the top of the page. It allows you to display a custom image and to set "
+"a custom height."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:664
+msgid ""
+"Please enter an URL or upload the page header image.<br> the image should be between 1600px and about "
+"2000px.<br>The height must be at minimum 200px"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:721
+msgid "Page Footer Settings"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:723
+msgid ""
+"Thanks to this setting you can customize the appearance of every page with a custom background image or "
+"color scheme.<br>It will override the defaut seetings set up in the Mobius Settings panel in footer "
+"section"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:728
+msgid "Hide Footer Top"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:729
+msgid "Check this option if you want to hide the footer top (widget area)."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:735
+msgid "Hide Footer Bottom"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:736
+msgid "Check this option if you want to hide the footer bottom (e.g: copyright)."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:742 ../includes/options/options.php:1103
+#: ../includes/options/options.php:1109
+msgid "Footer Background"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:743
+msgid "Check this option if you want a background in the footer."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:749 ../includes/options/options.php:1116
+msgid "Footer Background Image"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:750 ../includes/options/options.php:1119
+msgid ""
+"This image will be display under the top & bottom footer. An opacity under 1 must be set in order to see "
+"this backround image."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:756
+msgid "Footer Top Text Color"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:757
+msgid ""
+"Select the color of the content inside of the top footer.<br>Dark add black text color and light white "
+"text color."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:773
+msgid "Footer Bottom text Color"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:774 ../includes/metaboxes/post-meta.php:781
+#: ../includes/metaboxes/post-meta.php:788 ../includes/options/options.php:1136
+#: ../includes/options/options.php:1146 ../includes/options/options.php:1156
+msgid "Please select a color."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:780 ../includes/options/options.php:1145
+msgid "Footer Top Background Color"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:787 ../includes/options/options.php:842
+#: ../includes/options/options.php:851 ../includes/options/options.php:1155
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:794 ../includes/options/options.php:1165
+msgid "Footer Top Background Opacity"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:795 ../includes/metaboxes/post-meta.php:802
+msgid "Set the bottom footer opacity. (between 0-1)"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:801 ../includes/options/options.php:1178
+msgid "Footer Bottom Background Opacity"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:817
+msgid "Portfolio project sidebar Content"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:819
+msgid ""
+"The sidebar is displayed on the right of the portfolio and allows to add resume information and "
+"description of the porfolio.<br>if there isn't any content inside the sidebar, the sidebar will be "
+"removed.<br>"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:838
+msgid "Extended Page Option"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:840
+msgid ""
+"This option allows you to have an extended page (fully customizable).<br> By checking this option, you "
+"will don't have any content displayed automatically.<br> You need to construct all your page content "
+"thanks to the defaut Wordpress textarea and themeone shortcode."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:845
+msgid "Enable extended page"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:861
+msgid "Slide Settings"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:868
+msgid "Slide Image"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:869
+msgid ""
+"Please enter an URL or upload the slide image.<br> The image should be between 1600px and about 2000px."
+"<br><strong>An image must be added even if you choose to display a video slide (only for mp4 and ogv). "
+"this image will be displayed if the video can't be played by the client browser</strong>"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:875
+msgid "Slide Image Alignment"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:876
+msgid "Select the vertical alignment of the slide image"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:896
+msgid "Slide Overlay Pattern"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:897
+msgid "Please enter an URL or upload a pattern overlay that will be apply over the slide image."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:903
+msgid "Slide Overlay Background Color"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:904
+msgid ""
+"Please choose an overlay background color taht will be applied over the image slide and under the "
+"pattern."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:910
+msgid "Slide Overlay Background Opacity"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:911
+msgid ""
+"Please enter an opacity value for the background color overlay. <strong>Between 0.0 and 0.9 with a dot "
+"separator please."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:917
+msgid "Slide Title"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:918
+msgid "Please enter the caption of the slide."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:924
+msgid "Slide Description"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:925
+msgid ""
+"Please enter the description of the slide.<br><strong>Themeone shortcode can be used to build an "
+"advanced slider caption/description (Try to not add section and columns. It's on experimental stage)</"
+"strong>"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:931
+msgid "Slide Description Background"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:932
+msgid "If you want to add a semi transparent background to your caption, please check this option."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:938
+msgid "Slide Button Text"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:939
+msgid "If you would like a button to appear below your caption, please enter the button text here."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:945
+msgid "Slide Button Link"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:946
+msgid "Please enter the button URL."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:952
+msgid "Slide Content Alignment"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:953
+msgid "Select the alignment of the slide title, caption and button."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:977
+msgid "Slide Text Color"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:978
+msgid "Select the color of the text.<br>Dark add black text color and light white text color."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:994
+msgid "Slide rotate content"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:995
+msgid "Allows to rotate content on move hover slide"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1005
+msgid "Slide Video Settings"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1019
+msgid "WEBM File URL"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1020
+msgid "Please enter an URL or upload your .webm video file"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1033
+msgid "Youtube Embed URL"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1034
+msgid ""
+"Please enter a Youtube link. <br><strong>(Do not paste the embedded code, just the embedded link "
+"please)</strong>."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1040
+msgid "Vimeo Embed URL"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1041
+msgid ""
+"Please enter a Vimeo link. <br><strong>(Do not paste the embedded code, just the embedded link please)</"
+"strong>."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1051
+msgid "Slider Settings"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1058 ../includes/metaboxes/post-meta.php:1204
+msgid "Slider Height"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1059
+msgid "Please enter the slider height. <br><strong>(Please do not add 'px')</strong>"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1065
+msgid "Slider Full Height"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1066
+msgid ""
+"This option allow to have the slider in full screen height. <br><strong>(if this option is checked, then "
+"the height in px will not be applied)</strong>"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1072
+msgid "Slider Autoplay"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1073
+msgid "This option enable auto play slider"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1079
+msgid "Slider Autoplay Time Bar"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1080
+msgid "If autoplay is checked, then you can display or not the timer bar during autoplay."
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1086
+msgid "Slider Delay"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1087
+msgid ""
+"If you checked autoplay, then you can set the time between each slide transition in millisecond. "
+"<br><strong>(Please do not add 'ms' (e.g: 15000, 15000ms=15s))</strong>"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1093
+msgid "Slider Parallax"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1094
+msgid "Enable or not a parallax effect on the slider"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1100
+msgid "Slider Transparent header"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1101
+msgid ""
+"Enable or not a transparent header. <br><strong>(Only works if there isn't page header on the page)</"
+"strong>"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1107
+msgid "Slider Scroll to bottom button"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1108
+msgid ""
+"Add an arrow to the bottom of the slider to scroll after the slider content at the beginning of the page "
+"on click"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1118
+msgid "Add slide to the slider (drag available slides here)"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1125
+msgid "Drop the slides here to build your custom slider"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1134
+msgid "Available Slides"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1141
+msgid "Drag and drop slides"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1155
+msgid "Choose a Slider"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1162
+msgid "Available slider(s)"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1175
+msgid "SideBar Settings"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1182
+msgid "Sidebar"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1188
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1218
+msgid "Page Background Color"
+msgstr ""
+
+#: ../includes/metaboxes/post-meta.php:1220
+msgid "Add a custom background color to the current page"
+msgstr ""
+
+#: ../includes/mobius-grid/mobius-grid.php:133
+#: ../includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:110
+#: ../includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:155
+msgid "All"
+msgstr ""
+
+#: ../includes/mobius-grid/mobius-grid.php:193
+msgid "Load more"
+msgstr "Conozca más"
+
+#: ../includes/mobius-grid/mobius-grid.php:405 ../single.php:93 ../single.php:125
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../includes/nav-menu/nav-menu.php:152
+msgid "Menu Image"
+msgstr ""
+
+#: ../includes/nav-menu/nav-menu.php:159
+msgid "Menu Image position"
+msgstr ""
+
+#: ../includes/options/options.php:171
+msgid "General"
+msgstr ""
+
+#: ../includes/options/options.php:172
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/options/options.php:177
+msgid "Favicon Logo"
+msgstr ""
+
+#: ../includes/options/options.php:184
+msgid "Favicon"
+msgstr ""
+
+#: ../includes/options/options.php:185
+msgid "Upload a 16x16px jpge, png or gif image."
+msgstr ""
+
+#: ../includes/options/options.php:186
+msgid ""
+"Add a favicon logo to your website. <br> The favicon is displayed on the browser tab of your website."
+msgstr ""
+
+#: ../includes/options/options.php:197
+msgid "Preloader Settings"
+msgstr ""
+
+#: ../includes/options/options.php:203
+msgid "Preloader"
+msgstr ""
+
+#: ../includes/options/options.php:204
+msgid ""
+"Enable a preloader screen on first page load. It displays a loading circle animation and your logo until "
+"the browser fetched the whole webcontent and will fade out the moment the page has been completely "
+"chached."
+msgstr ""
+
+#: ../includes/options/options.php:215
+msgid "Scrolling Settings"
+msgstr ""
+
+#: ../includes/options/options.php:221
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: ../includes/options/options.php:222
+msgid "Allow to have a smooth scrolling on modern browser."
+msgstr ""
+
+#: ../includes/options/options.php:228
+msgid "Back To Top Button"
+msgstr ""
+
+#: ../includes/options/options.php:229
+msgid "Add or not a back to top scrolling button at the button of all pages."
+msgstr ""
+
+#: ../includes/options/options.php:240
+msgid "Top Menu Button Settings"
+msgstr ""
+
+#: ../includes/options/options.php:246
+msgid "Right Sidebar Button"
+msgstr ""
+
+#: ../includes/options/options.php:247
+msgid "Add or not the cross button of the right sidebar on the top nav menu."
+msgstr ""
+
+#: ../includes/options/options.php:253
+msgid "Search Button"
+msgstr ""
+
+#: ../includes/options/options.php:254
+msgid "Add or not the search button on the top nav menu."
+msgstr ""
+
+#: ../includes/options/options.php:265
+msgid "Ajax Settings"
+msgstr ""
+
+#: ../includes/options/options.php:266
+msgid "If you want to have a full ajax website, please enable all ajax options."
+msgstr ""
+
+#: ../includes/options/options.php:272
+msgid "Ajax Navigation"
+msgstr ""
+
+#: ../includes/options/options.php:273
+msgid "Allow to load all page content without reloading the page."
+msgstr ""
+
+#: ../includes/options/options.php:279
+msgid "Ajax Search"
+msgstr ""
+
+#: ../includes/options/options.php:280
+msgid "Allow to have a live search autocomplete form that appears while typing in search bar."
+msgstr ""
+
+#: ../includes/options/options.php:286
+msgid "Ajax Comment"
+msgstr ""
+
+#: ../includes/options/options.php:287
+msgid "Allow to post a comment without reloading the page."
+msgstr ""
+
+#: ../includes/options/options.php:298
+msgid "Google Analytics"
+msgstr ""
+
+#: ../includes/options/options.php:299
+msgid ""
+"Google Analytics is a service offered by Google that generates detailed statistics about a website's "
+"traffic and traffic sources and measures conversions and sales.<br>More informations about Google "
+"Analytics can be found out there:"
+msgstr ""
+
+#: ../includes/options/options.php:305
+msgid "Google Analytics Script"
+msgstr ""
+
+#: ../includes/options/options.php:306
+msgid ""
+"Please enter your google analytics code here.<br><strong>You must enter the full script from google (not "
+"just the tracking ID)</strong>."
+msgstr ""
+
+#: ../includes/options/options.php:318
+msgid "Custom Code Fields"
+msgstr ""
+
+#: ../includes/options/options.php:324
+msgid "CSS Code"
+msgstr ""
+
+#: ../includes/options/options.php:325
+msgid ""
+"Paste your custom CSS code here.<br> Very helpful if you add a custom class in a shortcode in order to "
+"customize a specific element."
+msgstr ""
+
+#: ../includes/options/options.php:334
+msgid "JS Code"
+msgstr ""
+
+#: ../includes/options/options.php:335
+msgid "Paste your custom JS code here."
+msgstr ""
+
+#: ../includes/options/options.php:356
+msgid "Typography"
+msgstr ""
+
+#: ../includes/options/options.php:357
+msgid "Typography Settings"
+msgstr ""
+
+#: ../includes/options/options.php:362
+msgid "Main font"
+msgstr ""
+
+#: ../includes/options/options.php:368
+msgid "Body"
+msgstr ""
+
+#: ../includes/options/options.php:386
+msgid "Menu"
+msgstr ""
+
+#: ../includes/options/options.php:409
+msgid "Heading font"
+msgstr ""
+
+#: ../includes/options/options.php:415
+msgid "Heading 1 (heading header, post blog header and h1 font)"
+msgstr ""
+
+#: ../includes/options/options.php:433
+msgid "Heading 2"
+msgstr ""
+
+#: ../includes/options/options.php:451
+msgid "Heading 3"
+msgstr ""
+
+#: ../includes/options/options.php:469
+msgid "Heading 4"
+msgstr ""
+
+#: ../includes/options/options.php:487
+msgid "Heading 5"
+msgstr ""
+
+#: ../includes/options/options.php:505
+msgid "Heading 6"
+msgstr ""
+
+#: ../includes/options/options.php:528
+msgid "slider font"
+msgstr ""
+
+#: ../includes/options/options.php:534
+msgid "Heading in header and slider"
+msgstr ""
+
+#: ../includes/options/options.php:557
+msgid "Grid Blog header font"
+msgstr ""
+
+#: ../includes/options/options.php:563
+msgid "Heading in grid"
+msgstr ""
+
+#: ../includes/options/options.php:586
+msgid "Numbers font"
+msgstr ""
+
+#: ../includes/options/options.php:592
+msgid "Numbers Font"
+msgstr ""
+
+#: ../includes/options/options.php:617
+msgid "Colors"
+msgstr ""
+
+#: ../includes/options/options.php:618
+msgid "Colors Settings"
+msgstr ""
+
+#: ../includes/options/options.php:623
+msgid "Accent Color"
+msgstr ""
+
+#: ../includes/options/options.php:629
+msgid "Default Accent Color"
+msgstr ""
+
+#: ../includes/options/options.php:630
+msgid "Pick a color for the default accent color theme."
+msgstr ""
+
+#: ../includes/options/options.php:638
+msgid "Default Accent Text Color"
+msgstr ""
+
+#: ../includes/options/options.php:639
+msgid "Pick a color for the default accent text color theme."
+msgstr ""
+
+#: ../includes/options/options.php:647
+msgid ""
+"The following accent color2 and accent color3 will be only used in themeone shortcode generator in order "
+"to set different color scheme.<br>It will facilitate your way to manage your main accent color by just "
+"setting colors in this section and not to change color everytime in the shortcodes."
+msgstr ""
+
+#: ../includes/options/options.php:658
+msgid "Accent Color2"
+msgstr ""
+
+#: ../includes/options/options.php:659
+msgid "Pick a color for the accent color 2."
+msgstr ""
+
+#: ../includes/options/options.php:667
+msgid "Accent Color3"
+msgstr ""
+
+#: ../includes/options/options.php:668
+msgid "Pick a color for the accent color 3."
+msgstr ""
+
+#: ../includes/options/options.php:681
+msgid "Text Color Scheme Settings"
+msgstr ""
+
+#: ../includes/options/options.php:687
+msgid "Body Light Text Color"
+msgstr ""
+
+#: ../includes/options/options.php:688
+msgid "Pick a color for the light body text color."
+msgstr ""
+
+#: ../includes/options/options.php:696
+msgid "Heading Light Text Color"
+msgstr ""
+
+#: ../includes/options/options.php:697
+msgid "Pick a color for the light heading text color."
+msgstr ""
+
+#: ../includes/options/options.php:705
+msgid "Body Dark Text Color"
+msgstr ""
+
+#: ../includes/options/options.php:706
+msgid "Pick a color for the dark body text color."
+msgstr ""
+
+#: ../includes/options/options.php:714
+msgid "Heading Dark Text Color"
+msgstr ""
+
+#: ../includes/options/options.php:715
+msgid "Pick a color for the dark heading text color."
+msgstr ""
+
+#: ../includes/options/options.php:729
+msgid "Main Color Settings"
+msgstr ""
+
+#: ../includes/options/options.php:735
+msgid "Main Background Color"
+msgstr ""
+
+#: ../includes/options/options.php:736
+msgid "Pick a color for the main background color."
+msgstr ""
+
+#: ../includes/options/options.php:744
+msgid "Main Color Scheme"
+msgstr ""
+
+#: ../includes/options/options.php:745
+msgid "Select the main text color scheme."
+msgstr ""
+
+#: ../includes/options/options.php:758
+msgid "Second Background Color Setting"
+msgstr ""
+
+#: ../includes/options/options.php:764
+msgid "Second Background Color"
+msgstr ""
+
+#: ../includes/options/options.php:765
+msgid "Pick a color for the second background color."
+msgstr ""
+
+#: ../includes/options/options.php:779
+msgid "Header Colors"
+msgstr ""
+
+#: ../includes/options/options.php:785
+msgid "Header Background Color"
+msgstr ""
+
+#: ../includes/options/options.php:786
+msgid "Pick a color for the header background color."
+msgstr ""
+
+#: ../includes/options/options.php:794
+msgid "Header Text Color"
+msgstr ""
+
+#: ../includes/options/options.php:795
+msgid "Pick a color for the header text color."
+msgstr ""
+
+#: ../includes/options/options.php:808
+msgid "Footer Colors"
+msgstr ""
+
+#: ../includes/options/options.php:814
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../includes/options/options.php:815
+msgid "Pick a color for the footer background color."
+msgstr ""
+
+#: ../includes/options/options.php:823
+msgid "Footer Text Color Scheme"
+msgstr ""
+
+#: ../includes/options/options.php:824 ../includes/options/options.php:1127
+msgid "Select the footer text color scheme."
+msgstr ""
+
+#: ../includes/options/options.php:836
+msgid "Footer Bottom Copyright/Social Icons Colors"
+msgstr ""
+
+#: ../includes/options/options.php:843 ../includes/options/options.php:852
+#: ../includes/options/options.php:872
+msgid "Pick a color for the footer bottom background color."
+msgstr ""
+
+#: ../includes/options/options.php:865
+msgid "Right Sliding Sidebar"
+msgstr ""
+
+#: ../includes/options/options.php:871
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: ../includes/options/options.php:880
+msgid "Sidebar Text Color Scheme"
+msgstr ""
+
+#: ../includes/options/options.php:881
+msgid "Select the sidebar text color scheme."
+msgstr ""
+
+#: ../includes/options/options.php:893
+msgid "Left Sliding Sidebar (Menu)"
+msgstr ""
+
+#: ../includes/options/options.php:899
+msgid "Left Sidebar Background Color"
+msgstr ""
+
+#: ../includes/options/options.php:900 ../includes/options/options.php:917
+msgid "Pick a color for the left menu background color."
+msgstr ""
+
+#: ../includes/options/options.php:908
+msgid "Left Sidebar Text Color Scheme"
+msgstr ""
+
+#: ../includes/options/options.php:909
+msgid "Select the left menu color."
+msgstr ""
+
+#: ../includes/options/options.php:916
+msgid "Left Menu Background Color"
+msgstr ""
+
+#: ../includes/options/options.php:932
+msgid "Header"
+msgstr ""
+
+#: ../includes/options/options.php:933
+msgid "Header Options"
+msgstr ""
+
+#: ../includes/options/options.php:938
+msgid "Top Nav Logo"
+msgstr ""
+
+#: ../includes/options/options.php:944
+msgid "Header Logo"
+msgstr ""
+
+#: ../includes/options/options.php:946
+msgid "Upload your header logo."
+msgstr ""
+
+#: ../includes/options/options.php:947
+msgid ""
+"This logo is used in the top header navigation.<br> If in themeone slider or in page header settings, "
+"transparent header option is activated, this logo will be used as the dark logo."
+msgstr ""
+
+#: ../includes/options/options.php:953
+msgid "Header Logo Light"
+msgstr ""
+
+#: ../includes/options/options.php:955
+msgid "Upload your light header logo."
+msgstr ""
+
+#: ../includes/options/options.php:956
+msgid ""
+"This alternative logo will be used only if in themeone slider or in page header settings, transparent "
+"header option is activated."
+msgstr ""
+
+#: ../includes/options/options.php:967 ../includes/options/options.php:973
+msgid "Left Nav Logo"
+msgstr ""
+
+#: ../includes/options/options.php:975
+msgid "Upload your logo."
+msgstr ""
+
+#: ../includes/options/options.php:976
+msgid "This logo is used in the left menu sidebar."
+msgstr ""
+
+#: ../includes/options/options.php:987
+msgid "Header Styles"
+msgstr ""
+
+#: ../includes/options/options.php:993
+msgid "Header Top Menu/Left Menu"
+msgstr ""
+
+#: ../includes/options/options.php:994
+msgid ""
+"You can choose between an header with a top navigation menu or a header with a button menu to access to "
+"a vertical menu on left."
+msgstr ""
+
+#: ../includes/options/options.php:995
+msgid "Please select your header style."
+msgstr ""
+
+#: ../includes/options/options.php:1010
+msgid "Header Features"
+msgstr ""
+
+#: ../includes/options/options.php:1016
+msgid "Header Fixed Position"
+msgstr ""
+
+#: ../includes/options/options.php:1017
+msgid ""
+"Check this option if you want to have a sticky header which remains visible at the top of the browser on "
+"scroll."
+msgstr ""
+
+#: ../includes/options/options.php:1023
+msgid "Header Resize On Scroll"
+msgstr ""
+
+#: ../includes/options/options.php:1024
+msgid "Check this option if you want to enable header height to be resized on scroll."
+msgstr ""
+
+#: ../includes/options/options.php:1030
+msgid "Header Top Menu Link"
+msgstr ""
+
+#: ../includes/options/options.php:1031
+msgid "Check this option if you want to enable menu links in top menu (first level) header."
+msgstr ""
+
+#: ../includes/options/options.php:1042
+msgid "Header Appearance"
+msgstr ""
+
+#: ../includes/options/options.php:1048
+msgid "Header Height"
+msgstr ""
+
+#: ../includes/options/options.php:1049
+msgid "Set the header height."
+msgstr ""
+
+#: ../includes/options/options.php:1059
+msgid "Header Max height"
+msgstr ""
+
+#: ../includes/options/options.php:1060
+msgid "Set the header min height.<br>(only needed if header resize on scroll option is enable)"
+msgstr ""
+
+#: ../includes/options/options.php:1071
+msgid "Header Opacity"
+msgstr ""
+
+#: ../includes/options/options.php:1072
+msgid "Set the header opacity."
+msgstr ""
+
+#: ../includes/options/options.php:1083
+msgid "Header Opacity Over Slider"
+msgstr ""
+
+#: ../includes/options/options.php:1084
+msgid ""
+"Set the header opacity when the header is over the themeone slider and if in themeone slider options, "
+"slider transparent header option is activated."
+msgstr ""
+
+#: ../includes/options/options.php:1097
+msgid "Footer"
+msgstr ""
+
+#: ../includes/options/options.php:1098
+msgid "Footer Options"
+msgstr ""
+
+#: ../includes/options/options.php:1110
+msgid "Check this option if you want a background in the footer"
+msgstr ""
+
+#: ../includes/options/options.php:1118
+msgid "Upload your footer background image."
+msgstr ""
+
+#: ../includes/options/options.php:1126
+msgid "Footer Top Text Color Scheme"
+msgstr ""
+
+#: ../includes/options/options.php:1135
+msgid "Footer Bottom Text Color"
+msgstr ""
+
+#: ../includes/options/options.php:1166
+msgid "Set the top footer opacity."
+msgstr ""
+
+#: ../includes/options/options.php:1179
+msgid "Set the bottom footer opacity."
+msgstr ""
+
+#: ../includes/options/options.php:1196
+msgid "Top Footer Section"
+msgstr ""
+
+#: ../includes/options/options.php:1202
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../includes/options/options.php:1203
+msgid "Check this option if you want the footer widget area."
+msgstr ""
+
+#: ../includes/options/options.php:1209
+msgid "Footer Columns"
+msgstr ""
+
+#: ../includes/options/options.php:1210
+msgid "Choose the number of desired column in the footer widget area."
+msgstr ""
+
+#: ../includes/options/options.php:1227
+msgid "Bottom Footer Section"
+msgstr ""
+
+#: ../includes/options/options.php:1233
+msgid "Footer Bottom Area"
+msgstr ""
+
+#: ../includes/options/options.php:1234
+msgid "Check this option if you want the footer bottom area."
+msgstr ""
+
+#: ../includes/options/options.php:1240
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../includes/options/options.php:1241
+msgid "Please enter the copyright text."
+msgstr ""
+
+#: ../includes/options/options.php:1248
+msgid "Footer Social Icon"
+msgstr ""
+
+#: ../includes/options/options.php:1249
+msgid "Check this option if you to add social icons inside the footer."
+msgstr ""
+
+#: ../includes/options/options.php:1257
+msgid ""
+"Choose and organize how you want to appear the social icons inside the footer.<br><strong>Social icon "
+"url need to be set in Social Icon Links Themeone option panel.</strong>"
+msgstr ""
+
+#: ../includes/options/options.php:1291
+msgid "Social Icons"
+msgstr ""
+
+#: ../includes/options/options.php:1292
+msgid "Social Icons Settings"
+msgstr ""
+
+#: ../includes/options/options.php:1297
+msgid ""
+"Enter in your social media URL here and then select which ones you would like to display in your footer "
+"options. <br><strong>PLEASE INCLUDE \"http://\" or \"https://\" IN URL</strong>"
+msgstr ""
+
+#: ../includes/options/options.php:1308
+msgid "Facebook URL"
+msgstr ""
+
+#: ../includes/options/options.php:1309
+msgid "Please enter your Facebook URL."
+msgstr ""
+
+#: ../includes/options/options.php:1315
+msgid "Twitter URL"
+msgstr ""
+
+#: ../includes/options/options.php:1316
+msgid "Please enter your Twitter URL."
+msgstr ""
+
+#: ../includes/options/options.php:1322
+msgid "Google+ URL"
+msgstr ""
+
+#: ../includes/options/options.php:1323
+msgid "Please enter your Google+ URL."
+msgstr ""
+
+#: ../includes/options/options.php:1329
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../includes/options/options.php:1330
+msgid "Please enter your Linkedin URL."
+msgstr ""
+
+#: ../includes/options/options.php:1336
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../includes/options/options.php:1337
+msgid "Please enter your Tumblr URL."
+msgstr ""
+
+#: ../includes/options/options.php:1343
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../includes/options/options.php:1344
+msgid "Please enter your Dribbble URL."
+msgstr ""
+
+#: ../includes/options/options.php:1350
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../includes/options/options.php:1351
+msgid "Please enter your Pinterest URL."
+msgstr ""
+
+#: ../includes/options/options.php:1357
+msgid "Youtube URL"
+msgstr ""
+
+#: ../includes/options/options.php:1358
+msgid "Please enter your Youtube URL."
+msgstr ""
+
+#: ../includes/options/options.php:1364
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../includes/options/options.php:1365
+msgid "Please enter your Vimeo URL."
+msgstr ""
+
+#: ../includes/options/options.php:1371
+msgid "Flickr URL"
+msgstr ""
+
+#: ../includes/options/options.php:1372
+msgid "Please enter your Flickr URL."
+msgstr ""
+
+#: ../includes/options/options.php:1378
+msgid "Github URL"
+msgstr ""
+
+#: ../includes/options/options.php:1379
+msgid "Please enter your Github URL."
+msgstr ""
+
+#: ../includes/options/options.php:1385
+msgid "StackOverflow URL"
+msgstr ""
+
+#: ../includes/options/options.php:1386
+msgid "Please enter your StackOverflow URL."
+msgstr ""
+
+#: ../includes/options/options.php:1392
+msgid "StackExchange URL"
+msgstr ""
+
+#: ../includes/options/options.php:1393
+msgid "Please enter your StackExchange URL."
+msgstr ""
+
+#: ../includes/options/options.php:1401
+msgid "Contact"
+msgstr ""
+
+#: ../includes/options/options.php:1402
+msgid "Contact Settings"
+msgstr ""
+
+#: ../includes/options/options.php:1407
+msgid "Map Settings"
+msgstr ""
+
+#: ../includes/options/options.php:1413
+msgid "Map Height"
+msgstr ""
+
+#: ../includes/options/options.php:1415
+msgid "Set the height of the map."
+msgstr ""
+
+#: ../includes/options/options.php:1416
+msgid "Please do not add 'px'. (e.g : 400)"
+msgstr ""
+
+#: ../includes/options/options.php:1422
+msgid "Map Type"
+msgstr ""
+
+#: ../includes/options/options.php:1423
+msgid "Select the type of the google map."
+msgstr ""
+
+#: ../includes/options/options.php:1430
+msgid "Map Color"
+msgstr ""
+
+#: ../includes/options/options.php:1431
+msgid "Select the color scheme of the google map."
+msgstr ""
+
+#: ../includes/options/options.php:1439
+msgid "Map Draggable"
+msgstr ""
+
+#: ../includes/options/options.php:1440
+msgid "Enable this option if you want to drag the map with mouse or touch."
+msgstr ""
+
+#: ../includes/options/options.php:1447
+msgid "Map Zoom Level"
+msgstr ""
+
+#: ../includes/options/options.php:1448
+msgid "Choose your zoom level. 1 show the entire earth and 18 being right at street level."
+msgstr ""
+
+#: ../includes/options/options.php:1460
+msgid "Map Zoom In/Out"
+msgstr ""
+
+#: ../includes/options/options.php:1461
+msgid "Check this option if you want to add the zoom level control on the google map."
+msgstr ""
+
+#: ../includes/options/options.php:1467
+msgid "Marker Location animation"
+msgstr ""
+
+#: ../includes/options/options.php:1468
+msgid "Check this option if you want to add an animation on load."
+msgstr ""
+
+#: ../includes/options/options.php:1474
+msgid "Marker Location animation on mouse hover"
+msgstr ""
+
+#: ../includes/options/options.php:1475
+msgid "Check this option if you want to add an animation on mouse hover marker location."
+msgstr ""
+
+#: ../includes/options/options.php:1492
+msgid "<i style=\"line-height:30px\" class=\"dashicons dashicons-admin-post\"></i> Location n&#176;1"
+msgstr ""
+
+#: ../includes/options/options.php:1498 ../includes/options/options.php:1531
+#: ../includes/options/options.php:1564 ../includes/options/options.php:1597
+#: ../includes/options/options.php:1626 ../includes/options/options.php:1655
+#: ../includes/options/options.php:1684 ../includes/options/options.php:1713
+#: ../includes/options/options.php:1743 ../includes/options/options.php:1773
+msgid "Marker Image"
+msgstr ""
+
+#: ../includes/options/options.php:1504 ../includes/options/options.php:1537
+#: ../includes/options/options.php:1570 ../includes/options/options.php:1602
+#: ../includes/options/options.php:1631 ../includes/options/options.php:1660
+#: ../includes/options/options.php:1689 ../includes/options/options.php:1718
+#: ../includes/options/options.php:1748 ../includes/options/options.php:1778
+msgid "Latitude"
+msgstr ""
+
+#: ../includes/options/options.php:1511 ../includes/options/options.php:1544
+#: ../includes/options/options.php:1577 ../includes/options/options.php:1608
+#: ../includes/options/options.php:1637 ../includes/options/options.php:1666
+#: ../includes/options/options.php:1695 ../includes/options/options.php:1724
+#: ../includes/options/options.php:1754 ../includes/options/options.php:1784
+msgid "Longitude"
+msgstr ""
+
+#: ../includes/options/options.php:1518 ../includes/options/options.php:1551
+#: ../includes/options/options.php:1584 ../includes/options/options.php:1614
+#: ../includes/options/options.php:1643 ../includes/options/options.php:1672
+#: ../includes/options/options.php:1701 ../includes/options/options.php:1730
+#: ../includes/options/options.php:1760 ../includes/options/options.php:1790
+msgid "Map Info Text"
+msgstr ""
+
+#: ../includes/options/options.php:1525
+msgid "<i style=\"line-height:30px\" class=\"dashicons dashicons-admin-post\"></i> Location n&#176;2"
+msgstr ""
+
+#: ../includes/options/options.php:1558
+msgid "<i style=\"line-height:30px\" class=\"dashicons dashicons-admin-post\"></i> Location n&#176;3"
+msgstr ""
+
+#: ../includes/options/options.php:1591
+msgid "<i style=\"line-height:30px\" class=\"dashicons dashicons-admin-post\"></i> Location n&#176;4"
+msgstr ""
+
+#: ../includes/options/options.php:1620
+msgid "<i style=\"line-height:30px\" class=\"dashicons dashicons-admin-post\"></i> Location n&#176;5"
+msgstr ""
+
+#: ../includes/options/options.php:1649
+msgid "<i style=\"line-height:30px\" class=\"dashicons dashicons-admin-post\"></i> Location n&#176;6"
+msgstr ""
+
+#: ../includes/options/options.php:1678
+msgid "<i style=\"line-height:30px\" class=\"dashicons dashicons-admin-post\"></i> Location n&#176;7"
+msgstr ""
+
+#: ../includes/options/options.php:1707
+msgid "<i style=\"line-height:30px\" class=\"dashicons dashicons-admin-post\"></i> Location n&#176;8"
+msgstr ""
+
+#: ../includes/options/options.php:1737
+msgid "<i style=\"line-height:30px\" class=\"dashicons dashicons-admin-post\"></i> Location n&#176;9"
+msgstr ""
+
+#: ../includes/options/options.php:1767
+msgid "<i style=\"line-height:30px\" class=\"dashicons dashicons-admin-post\"></i> Location n&#176;10"
+msgstr ""
+
+#: ../includes/options/options.php:1807
+msgid "Add or remove locations"
+msgstr ""
+
+#: ../includes/options/options.php:1821
+msgid "Call To Action"
+msgstr ""
+
+#: ../includes/options/options.php:1822
+msgid "Call To Action Settings"
+msgstr ""
+
+#: ../includes/options/options.php:1827
+msgid "Call To Action Location"
+msgstr ""
+
+#: ../includes/options/options.php:1835
+msgid "Call to Action Section Pages"
+msgstr ""
+
+#: ../includes/options/options.php:1836
+msgid "Select any pages you wish to see the Call to Action section from. You can select multiple pages."
+msgstr ""
+
+#: ../includes/options/options.php:1847
+msgid "Call To Action Content Settings"
+msgstr ""
+
+#: ../includes/options/options.php:1853
+msgid "Call to Action Text"
+msgstr ""
+
+#: ../includes/options/options.php:1854
+msgid "Please enter your call to action text."
+msgstr ""
+
+#: ../includes/options/options.php:1860
+msgid "Call to Action Button URL"
+msgstr ""
+
+#: ../includes/options/options.php:1861
+msgid "Please enter the URL for the call to action."
+msgstr ""
+
+#: ../includes/options/options.php:1872
+msgid "Call To Action Color Settings"
+msgstr ""
+
+#: ../includes/options/options.php:1878
+msgid "Call to Action Background Color"
+msgstr ""
+
+#: ../includes/options/options.php:1879
+msgid "You can set a custom background color for the call to action section."
+msgstr ""
+
+#: ../includes/options/options.php:1887
+msgid "Call to Action Text Color"
+msgstr ""
+
+#: ../includes/options/options.php:1888
+msgid "You can set a custom text color for the call to action section."
+msgstr ""
+
+#: ../includes/options/options.php:1918
+msgid "Unlimited SideBar"
+msgstr ""
+
+#: ../includes/options/options.php:1919
+msgid "Unlimited SideBar Settings"
+msgstr ""
+
+#: ../includes/options/options.php:1925
+msgid "Sidebar Generator"
+msgstr ""
+
+#: ../includes/options/options.php:1931
+msgid ""
+"In this option panel, you can create and add unlimited number of sidebar.<br>Give a name to your "
+"sidebar, add it, then save changes.<br>Your new created sidebar will appear on the widget page (<a href="
+"\""
+msgstr ""
+
+#: ../includes/options/options.php:1942
+msgid "Sidebar generator"
+msgstr ""
+
+#: ../includes/options/options.php:1944
+msgid ""
+"Enter a name <strong>(Without special characters)</strong> for the sidebar, then click on <i>\"add more"
+"\"</i> to add a new sidebar."
+msgstr ""
+
+#: ../includes/options/options.php:1955
+msgid "Single Blog Post Sidebar Management"
+msgstr ""
+
+#: ../includes/options/options.php:1961
+msgid "Sidebar Single Blog Post"
+msgstr ""
+
+#: ../includes/options/options.php:1962
+msgid ""
+"Select a sidebar. This sidebar will be applied on every single post and will override the sidebar "
+"configured in each single post."
+msgstr ""
+
+#: ../includes/options/options.php:1968
+msgid "Sidebar Single Blog Post Position"
+msgstr ""
+
+#: ../includes/options/options.php:1969
+msgid ""
+"Choose the sibar position for each single blog post.<br>It will only be applied if a sidebar is selected."
+msgstr ""
+
+#: ../includes/options/options.php:1978
+msgid "Blog"
+msgstr ""
+
+#: ../includes/options/options.php:1979
+msgid "Blog Settings"
+msgstr ""
+
+#: ../includes/options/options.php:1984
+msgid "Blog Page Settings"
+msgstr ""
+
+#: ../includes/options/options.php:1991
+msgid "Blog Layout Style Presets"
+msgstr ""
+
+#: ../includes/options/options.php:1992
+msgid "Select a preset layout style for the blog page."
+msgstr ""
+
+#: ../includes/options/options.php:2044
+msgid "Blog layout"
+msgstr ""
+
+#: ../includes/options/options.php:2045
+msgid "Please select your blog layout style."
+msgstr ""
+
+#: ../includes/options/options.php:2062
+msgid "Blog Wide Image Format"
+msgstr ""
+
+#: ../includes/options/options.php:2063
+msgid "Allows to display wide image ratio on the standard blog page."
+msgstr ""
+
+#: ../includes/options/options.php:2070
+msgid "Blog Item Size"
+msgstr ""
+
+#: ../includes/options/options.php:2071
+msgid ""
+"If you want to force an unique size to every blog items in the grid, please active this option.<br>Only "
+"working for the grid layout."
+msgstr ""
+
+#: ../includes/options/options.php:2088
+msgid "Blog Gutter Width"
+msgstr ""
+
+#: ../includes/options/options.php:2089 ../includes/options/options.php:2373
+msgid "Set the gutter width of the grid.(gutter = distance between each element in the grid)"
+msgstr ""
+
+#: ../includes/options/options.php:2102
+msgid "Blog Filters"
+msgstr ""
+
+#: ../includes/options/options.php:2103
+msgid "Allows to display the horizontal blog filters."
+msgstr ""
+
+#: ../includes/options/options.php:2110
+msgid "Blog Pagination"
+msgstr ""
+
+#: ../includes/options/options.php:2111
+msgid ""
+"Set the blog pagination between standard pagination number and an ajax button to load blog items on the "
+"fly."
+msgstr ""
+
+#: ../includes/options/options.php:2119
+msgid "Blog Items Per page"
+msgstr ""
+
+#: ../includes/options/options.php:2120
+msgid "Choose the number of items you want to display in the blog page."
+msgstr ""
+
+#: ../includes/options/options.php:2128
+msgid "Blog Author Photo"
+msgstr ""
+
+#: ../includes/options/options.php:2129
+msgid "Allows to display the blog author photo."
+msgstr ""
+
+#: ../includes/options/options.php:2141
+msgid "Blog Posts Settings"
+msgstr ""
+
+#: ../includes/options/options.php:2147
+msgid "Blog Tags"
+msgstr ""
+
+#: ../includes/options/options.php:2148
+msgid "Allows to display Tags at the end of each blog post."
+msgstr ""
+
+#: ../includes/options/options.php:2154
+msgid "Blog Social Sharing Buttons"
+msgstr ""
+
+#: ../includes/options/options.php:2155
+msgid "Allows to display social sharing buttons on your blog posts."
+msgstr ""
+
+#: ../includes/options/options.php:2161
+msgid "Blog Author Bio"
+msgstr ""
+
+#: ../includes/options/options.php:2162
+msgid "Allows to display author Bio informations on the end of the blog post before comments."
+msgstr ""
+
+#: ../includes/options/options.php:2173
+msgid "Blog Header Settings"
+msgstr ""
+
+#: ../includes/options/options.php:2179
+msgid "Blog Header"
+msgstr ""
+
+#: ../includes/options/options.php:2180 ../includes/options/options.php:2488
+msgid ""
+"Activate this option if you want to set a header style to all posts. If you setted a particular header "
+"style with an image in a post it will be preserved and will not be overridden by the following "
+"parameters."
+msgstr ""
+
+#: ../includes/options/options.php:2186
+msgid "Blog Header Text Color"
+msgstr ""
+
+#: ../includes/options/options.php:2187 ../includes/options/options.php:2495
+msgid ""
+"Select the color of the content inside the page header. Dark add black text color and light white text "
+"color."
+msgstr ""
+
+#: ../includes/options/options.php:2195
+msgid "Blog Header Bacground Color"
+msgstr ""
+
+#: ../includes/options/options.php:2196 ../includes/options/options.php:2504
+msgid ""
+"Please choose a background color. If an image is set, then the background color will not be applied."
+msgstr ""
+
+#: ../includes/options/options.php:2205
+msgid "Blog Header Image "
+msgstr ""
+
+#: ../includes/options/options.php:2207
+msgid "Upload your blog header image."
+msgstr ""
+
+#: ../includes/options/options.php:2208 ../includes/options/options.php:2516
+msgid ""
+"Please enter an URL or upload the page header image. the image should be between 1600px and about "
+"2000px. The height must be at minimum 200px"
+msgstr ""
+
+#: ../includes/options/options.php:2215
+msgid "Blog Header Image Alignment"
+msgstr ""
+
+#: ../includes/options/options.php:2216 ../includes/options/options.php:2524
+msgid "Select the vertical alignment of the page header image."
+msgstr ""
+
+#: ../includes/options/options.php:2224
+msgid "Blog Header Image Pattern"
+msgstr ""
+
+#: ../includes/options/options.php:2232
+msgid "Blog Header Image Parallax"
+msgstr ""
+
+#: ../includes/options/options.php:2240
+msgid "Blog Transparent header"
+msgstr ""
+
+#: ../includes/options/options.php:2241
+msgid "Enable or not a transparent header over the blog page header."
+msgstr ""
+
+#: ../includes/options/options.php:2255
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/options/options.php:2256
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../includes/options/options.php:2261
+msgid "Portfolio Page Settings"
+msgstr ""
+
+#: ../includes/options/options.php:2268
+msgid "Portfolio Layout Style Presets"
+msgstr ""
+
+#: ../includes/options/options.php:2269
+msgid ""
+"Select a preset layout style for the portfolio page or enable advanced portfolio layout style to set "
+"your portfolio page as desired."
+msgstr ""
+
+#: ../includes/options/options.php:2337
+msgid "Portfolio Advanced Layout Settings"
+msgstr ""
+
+#: ../includes/options/options.php:2338 ../includes/options/options.php:2365
+msgid ""
+"If you want to force an unique square size to every portfolio items in the grid, please active this "
+"option.<br>Only working for the grid layout."
+msgstr ""
+
+#: ../includes/options/options.php:2344
+msgid "Portfolio layout"
+msgstr ""
+
+#: ../includes/options/options.php:2345
+msgid "Choose your portfolio page layout."
+msgstr ""
+
+#: ../includes/options/options.php:2364
+msgid "Portfolio Item Square Size"
+msgstr ""
+
+#: ../includes/options/options.php:2372
+msgid "Portfolio Gutter Width"
+msgstr ""
+
+#: ../includes/options/options.php:2386
+msgid "Portfolio Item Style"
+msgstr ""
+
+#: ../includes/options/options.php:2387
+msgid "Choose your portfolio item style."
+msgstr ""
+
+#: ../includes/options/options.php:2399
+msgid "Portfolio Item Order"
+msgstr ""
+
+#: ../includes/options/options.php:2400
+msgid ""
+"Choose the order of item inside the portfolio grid/masonry.<br> Custom order can be set in Reorder grid "
+"menu page."
+msgstr ""
+
+#: ../includes/options/options.php:2414
+msgid "Portfolio Filters"
+msgstr ""
+
+#: ../includes/options/options.php:2415
+msgid "Allows to display the horizontal portfolio filters."
+msgstr ""
+
+#: ../includes/options/options.php:2421
+msgid "Portfolio Pagination"
+msgstr ""
+
+#: ../includes/options/options.php:2422
+msgid ""
+"Set the  portfolio pagination between standard pagination number and an ajax button to load portfolio "
+"items on the fly."
+msgstr ""
+
+#: ../includes/options/options.php:2429
+msgid "Portfolio Items Per page"
+msgstr ""
+
+#: ../includes/options/options.php:2430
+msgid "Choose the number of items you want to display in the portfolio page."
+msgstr ""
+
+#: ../includes/options/options.php:2442
+msgid "Portfolio Item Settings"
+msgstr ""
+
+#: ../includes/options/options.php:2448
+msgid "Portfolio Social Sharing Buttons"
+msgstr ""
+
+#: ../includes/options/options.php:2449
+msgid "Allows to display social sharing buttons on your portfolio items."
+msgstr ""
+
+#: ../includes/options/options.php:2455
+msgid "Portfolio About Author"
+msgstr ""
+
+#: ../includes/options/options.php:2456
+msgid "Allows to display author informations on the end of the portfolio item before comments."
+msgstr ""
+
+#: ../includes/options/options.php:2462
+msgid "Portfolio Comment System"
+msgstr ""
+
+#: ../includes/options/options.php:2463
+msgid "Allows to have the comment system enable and under the portfolio content."
+msgstr ""
+
+#: ../includes/options/options.php:2469
+msgid "Portfolio Sidebar Follow On Scroll"
+msgstr ""
+
+#: ../includes/options/options.php:2470
+msgid ""
+"Allows to have a right sidebar follow you down the page. Only works if there is content inside the "
+"portfolio sidebar content area in portfolio item."
+msgstr ""
+
+#: ../includes/options/options.php:2481
+msgid "Portfolio Header Settings"
+msgstr ""
+
+#: ../includes/options/options.php:2487
+msgid "Portfolio Header"
+msgstr ""
+
+#: ../includes/options/options.php:2494
+msgid "Portfolio Header Text Color"
+msgstr ""
+
+#: ../includes/options/options.php:2503
+msgid "Portfolio Header Bacground Color"
+msgstr ""
+
+#: ../includes/options/options.php:2513
+msgid "Portfolio Header Image "
+msgstr ""
+
+#: ../includes/options/options.php:2515
+msgid "Upload your portfolio header image."
+msgstr ""
+
+#: ../includes/options/options.php:2523
+msgid "Portfolio Header Image Alignment"
+msgstr ""
+
+#: ../includes/options/options.php:2532
+msgid "Portfolio Header Image Pattern"
+msgstr ""
+
+#: ../includes/options/options.php:2540
+msgid "Portfolio Header Image Parallax"
+msgstr ""
+
+#: ../includes/options/options.php:2548
+msgid "Portfolio Transparent header"
+msgstr ""
+
+#: ../includes/options/options.php:2549
+msgid "Enable or not a transparent header over the portfolio page header."
+msgstr ""
+
+#: ../includes/options/options.php:2564
+msgid "Woocommerce"
+msgstr ""
+
+#: ../includes/options/options.php:2565
+msgid "Woocommerce Options"
+msgstr ""
+
+#: ../includes/options/options.php:2576
+msgid "Woocommerce Ajax Cart Header"
+msgstr ""
+
+#: ../includes/options/options.php:2577
+msgid "This will add a cart item to your main navigation."
+msgstr ""
+
+#: ../includes/options/options.php:2588
+msgid "Product Per Page"
+msgstr ""
+
+#: ../includes/options/options.php:2594
+msgid "Woocommerce Product Per Page"
+msgstr ""
+
+#: ../includes/options/options.php:2595
+msgid "This will add a slider to choose the number of product per page."
+msgstr ""
+
+#: ../includes/options/options.php:2606
+msgid "Mobius Zoom Feature"
+msgstr ""
+
+#: ../includes/options/options.php:2612
+msgid "Single Product Zoom"
+msgstr ""
+
+#: ../includes/options/options.php:2613
+msgid "Enable or not a zoom functionnality over single product image."
+msgstr ""
+
+#: ../includes/options/options.php:2630 ../includes/options/options.php:2654
+#: ../includes/options/options.php:2729 ../includes/redux-framework/class.redux-plugin.php:401
+msgid "Documentation"
+msgstr ""
+
+#: ../includes/options/options.php:2655
+msgid "Mobius documentation v"
+msgstr ""
+
+#: ../includes/options/options.php:2667
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../includes/options/options.php:2668
+msgid "<strong>Author:</strong> "
+msgstr "<strong>Autor:</strong> "
+
+#: ../includes/options/options.php:2669
+msgid "<strong>Version:</strong> "
+msgstr "<strong>Versión:</strong> "
+
+#: ../includes/options/options.php:2673
+msgid "<strong>Tags:</strong> "
+msgstr "<strong>Etiquetas:</strong> "
+
+#: ../includes/options/options.php:2679
+msgid "Theme Informations"
+msgstr ""
+
+#: ../includes/options/options.php:2680
+msgid "Mobius by Themeone v"
+msgstr ""
+
+#: ../includes/options/options.php:2696
+msgid "Import Demo"
+msgstr ""
+
+#: ../includes/options/options.php:2697
+msgid "One-click installer - Dummy Data"
+msgstr ""
+
+#: ../includes/options/options.php:2702
+msgid ""
+"We advise to import demo content only on fresh installation in order to avoid any conflict with your "
+"current blog content.<br>Images are not including in the demo content. The images will be replaced by a "
+"placeholder image."
+msgstr ""
+
+#: ../includes/options/options.php:2708
+msgid "Importer"
+msgstr ""
+
+#: ../includes/options/options.php:2714
+msgid "Importing Dummy Data"
+msgstr ""
+
+#: ../includes/options/options.php:2715
+msgid ""
+"Importing demo content will copy the entire Mobius online demo. It will copy posts, portfolio items, "
+"pages, menu, slides and sliders. It will also add widgets.<br><br><strong><em>This installer can take a "
+"minute to complete.<br>Please, do not refresh your browser during the operation.</em></strong>"
+msgstr ""
+
+#: ../includes/options/options.php:2757 ../includes/options/options.php:2758
+msgid "Mobius Options"
+msgstr ""
+
+#: ../includes/post-like/post-like.php:164
+msgid "Unlike"
+msgstr ""
+
+#: ../includes/post-like/post-like.php:168 ../includes/post-like/post-like.php:172
+msgid "Like"
+msgstr ""
+
+#: ../includes/post-like/post-like.php:185
+msgid "You Like:"
+msgstr ""
+
+#: ../includes/post-like/post-like.php:209
+msgid "You don't like anything yet."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:450
+#: ../includes/redux-framework/ReduxCore/framework.php:1671
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:451
+#: ../includes/redux-framework/ReduxCore/framework.php:1672
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:452
+#: ../includes/redux-framework/ReduxCore/framework.php:1674
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:485
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:486
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:487
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:251
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:251
+msgid "Redux Framework"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:255
+#: ../includes/redux-framework/ReduxCore/framework.php:259
+#: ../includes/redux-framework/ReduxCore/framework.php:1260
+msgid "Options"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:1199
+#: ../includes/redux-framework/ReduxCore/framework.php:1200
+#: ../includes/redux-framework/ReduxCore/framework.php:3073
+#: ../includes/redux-framework/ReduxCore/framework.php:3144
+msgid "System Info"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:1673
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:1675
+msgid "Please Wait"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:1818
+msgid "Hints"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:1819
+msgid "<p>"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:1933
+msgid "Default"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:2866
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:2932
+msgid "Expand"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:2934
+#: ../includes/redux-framework/ReduxCore/framework.php:3198
+msgid "Save Changes"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:2936
+#: ../includes/redux-framework/ReduxCore/framework.php:3200
+msgid "Reset Section"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:2938
+#: ../includes/redux-framework/ReduxCore/framework.php:3202
+msgid "Reset All"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:2941
+#: ../includes/redux-framework/ReduxCore/framework.php:3205
+msgid "Working..."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:2959
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:2972
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:2984
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:2996
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:3012
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:3019
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/framework.php:3026
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/class.redux_functions.php:199
+msgid "Dismiss"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/debug.php:43
+#: ../includes/redux-framework/ReduxCore/inc/debug.php:71
+#: ../includes/redux-framework/ReduxCore/inc/debug.php:78
+#: ../includes/redux-framework/ReduxCore/inc/debug.php:79
+msgid "Options Object"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/debug.php:56
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:119
+#: ../includes/redux-framework/ReduxCore/inc/fields/color/field_color.php:75
+#: ../includes/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+#: ../includes/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:94
+#: ../includes/redux-framework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:81
+msgid "Transparent"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:136
+msgid "Background Repeat"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:152
+msgid "Background Clip"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:168
+msgid "Background Origin"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:183
+msgid "Background Size"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:198
+msgid "Background Attachment"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:218
+msgid "Background Position"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:272
+#: ../includes/redux-framework/ReduxCore/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:123
+#: ../includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:179
+msgid "Top"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:130
+#: ../includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:186
+msgid "Right"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:137
+#: ../includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:193
+msgid "Bottom"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:144
+#: ../includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:200
+msgid "Left"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:159
+msgid "Border style"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/button_import/field_button_import.php:71
+msgid "Import Demo Content"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/button_import/field_button_import.php:75
+msgid "All was done correctly! "
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/button_import/field_button_import.php:77
+msgid "Have fun!"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/button_import/field_button_import.php:80
+msgid "Don't forget to"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/button_import/field_button_import.php:82
+msgid " refresh"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/button_import/field_button_import.php:84
+msgid " your browser"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/button_import/field_button_import.php:87
+msgid ""
+"Sorry an error occur. Please try to import again or try with the standard Worpdress Importer plugin."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/button_import/field_button_import.php:90
+msgid "WARNING! During import, one or more steps have been processed during more than 30s."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/button_import/field_button_import.php:91
+msgid "It can affect the demo content import."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:72
+msgid "From "
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:85
+msgid "To "
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:126
+msgid "Width"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:142
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:401
+msgid "Height"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:153
+#: ../includes/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:154
+#: ../includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:209
+#: ../includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:210
+msgid "Units"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:77
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/group/field_group.php:82
+msgid "New "
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/group/field_group.php:125
+msgid "Delete"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/group/field_group.php:129
+msgid "Add"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:80
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:83
+msgid "Import Options"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:84
+msgid "Import from file"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:84
+msgid "Import from URL"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:87
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:92
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:96
+msgid "Import"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:96
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:99
+msgid "Export Options"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:102
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as you can use it as a backup "
+"should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:106
+msgid "Copy"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:106
+msgid "Download"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:106
+msgid "Copy Link"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:142
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:151
+#: ../includes/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:152
+msgid "Import / Export"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Regular"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Hover"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Visited"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:103
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1221
+msgid "Active"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:64
+msgid "Add More"
+msgstr "Añadir más"
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/password/field_password.php:59
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/password/field_password.php:60
+msgid "Username"
+msgstr "El nombre de usuario es obligatorio."
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/select/field_select.php:81
+#: ../includes/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:64
+msgid "Select an item"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/select/field_select.php:124
+#: ../includes/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:138
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:152
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "Description"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:156
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:210
+msgid "URL"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:170
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:223
+msgid "Delete Slide"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:226
+msgid "Add Slide"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "On"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:51
+msgid "Off"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:190
+msgid "Font family"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:206
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:267
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:287
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:291
+msgid "Font style"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:291
+msgid "Style"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:322
+msgid "Subsets"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:322
+msgid "Font script"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:339
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:340
+msgid "Text Align"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:363
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:364
+msgid "Text Transform"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:393
+msgid "Size"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:409
+msgid "Word Spacing"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:418
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:435
+msgid "Font color"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:801
+#: ../includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:830
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:117
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:118
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which "
+"configurations, plugins and themes to test to ensure compatability."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:123
+msgid "Allow tracking"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:128
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:139
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:140
+msgid "Getting Started"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:140
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we suggest you get up to speed "
+"by reviewing %1$s."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:140
+msgid "our documentation"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:141
+msgid "Redux Generator"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:141
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized boilerplate theme or a standalone "
+"admin folder complete with all things Redux (with the help of Underscores and TGM). Save yourself a "
+"headache and try it today."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:142
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:142
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of Redux?  Visit our %1$s to learn "
+"more!"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:142
+msgid "extensions directory"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:143
+msgid "Like Redux?"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:143
+#, php-format
+msgid "If so, please %1$s and consider making a %2$s to keep development of Redux moving forward."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:143
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:143
+msgid "donation"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:144
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:144
+msgid "If you'd like to keep up to with all things Redux, please subscribe to our newsletter"
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:145
+msgid "Email address"
+msgstr "Dirección email"
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:145
+msgid "Subscribe"
+msgstr "Suscríbete"
+
+#: ../includes/redux-framework/ReduxCore/inc/tracking.php:154
+msgid "Close"
+msgstr "Cerrar"
+
+#: ../includes/redux-framework/ReduxCore/inc/validation/color/validation_color.php:16
+#: ../includes/redux-framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:15
+#: ../includes/redux-framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:17
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:17
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/validation/date/validation_date.php:17
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/validation/email/validation_email.php:17
+#: ../includes/redux-framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:17
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/validation/no_html/validation_no_html.php:16
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:17
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:17
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/validation/numeric/validation_numeric.php:17
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../includes/redux-framework/ReduxCore/inc/validation/url/validation_url.php:17
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../includes/redux-framework/class.redux-plugin.php:299
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: ../includes/redux-framework/class.redux-plugin.php:299
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: ../includes/redux-framework/class.redux-plugin.php:398
+msgid "Repo"
+msgstr ""
+
+#: ../includes/redux-framework/class.redux-plugin.php:399
+msgid "Generator"
+msgstr ""
+
+#: ../includes/redux-framework/class.redux-plugin.php:400
+msgid "Issues"
+msgstr ""
+
+#: ../includes/redux-framework/class.redux-plugin.php:406
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: ../includes/redux-framework/class.redux-plugin.php:408
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: ../includes/reorder-posts/reorder-posts.php:28
+msgid "Reorder Themeone Grid"
+msgstr ""
+
+#: ../includes/reorder-posts/reorder-posts.php:30
+msgid "Simply drag the post up or down."
+msgstr ""
+
+#: ../includes/reorder-posts/reorder-posts.php:30
+msgid "You also can change the size of each post in the grid thanks to the select list."
+msgstr ""
+
+#: ../includes/reorder-posts/reorder-posts.php:106
+msgid "No post found, why not"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:196
+#: ../includes/tgm-plugin-activation/required-plugins.php:89
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:197
+#: ../includes/tgm-plugin-activation/required-plugins.php:90
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:198
+#: ../includes/tgm-plugin-activation/required-plugins.php:91
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:211
+#: ../includes/tgm-plugin-activation/required-plugins.php:103
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:212
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:213
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2005
+#: ../includes/tgm-plugin-activation/required-plugins.php:104
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:214
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:215
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:216
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:564
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2222
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1201
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1204
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1209
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1212
+msgid "Required"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1212
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1215
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1217
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1219
+msgid "Not Updated"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1322
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1452
+msgid "Install"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1344
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1453
+msgid "Activate"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1416
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1431
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1432
+msgid "Source"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1433
+msgid "Type"
+msgstr "Escribe"
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1434
+msgid "Status"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1454
+msgid "Update"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1564
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1673
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1988
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1989
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1990
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1991
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1992
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1993
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2004
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2118
+msgid ""
+"The installation and activation process is starting. This process may take a while on some hosts, so "
+"please be patient."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2119
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2119
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2128
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2119
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2128
+msgid "Hide Details"
+msgstr "Esconder detalles"
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2120
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2121
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2125
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2126
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2127
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2128
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2129
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2130
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/required-plugins.php:92
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation/required-plugins.php:105
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../search.php:13
+msgid " results found for \""
+msgstr " resultados encontrados de \""
+
+#: ../search.php:15
+msgid " result found for \""
+msgstr " resultado encontrado de \""
+
+#: ../searchform.php:14
+msgid "No results found"
+msgstr "No se han encontrado resultados"
+
+#: ../searchform.php:15
+msgid "Start Typing..."
+msgstr "Buscar..."
+
+#: ../single-portfolio.php:92 ../single.php:161
+msgid "About"
+msgstr "Acerca de"
+
+#: ../single-portfolio.php:98 ../single.php:167
+msgid "articles"
+msgstr "artículos"
+
+#: ../single.php:87 ../single.php:119
+msgid "Category"
+msgstr "Categoría"
+
+#: ../single.php:98 ../single.php:130
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../single.php:107 ../single.php:139
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../woocommerce/wishlist.php:86
+msgid "Product Name"
+msgstr ""
+
+#: ../woocommerce/wishlist.php:87
+msgid "Unit Price"
+msgstr ""
+
+#: ../woocommerce/wishlist.php:88
+msgid "Stock Status"
+msgstr ""
+
+#: ../woocommerce/wishlist.php:111
+msgid "Remove this product"
+msgstr "Borrar éste producto"
+
+#: ../woocommerce/wishlist.php:131
+msgid "Free!"
+msgstr "¡GRATIS!"
+
+#: ../woocommerce/wishlist.php:144
+msgid "Out of Stock"
+msgstr ""
+
+#: ../woocommerce/wishlist.php:147
+msgid "In Stock"
+msgstr ""
+
+#: ../woocommerce/wishlist.php:165
+msgid "No products were added to the wishlist"
+msgstr ""
